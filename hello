@@ -2,6 +2,7 @@
    public static void main(Strings [] args){
 
   System.out.println("hello world");
+public class hot dog
 
 
   }
